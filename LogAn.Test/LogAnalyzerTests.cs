@@ -3,7 +3,7 @@ using NUnit.Framework;
 
 namespace LogAn.Test
 {
-    [TestFixture]
+    [TestFixture] 
     public class LogAnalyzerTests 
     {
         private LogAnalyzer _analyzer;
