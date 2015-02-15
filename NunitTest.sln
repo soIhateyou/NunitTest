@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn", "LogAn\LogAn.csproj", "{E198A60B-4B25-44AC-A18D-C03F30FF4A32}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogAn.Test", "LogAn.Test\LogAn.Test.csproj", "{A1C62D07-6999-4209-AADE-94C8BE385930}"
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = NunitTest.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E198A60B-4B25-44AC-A18D-C03F30FF4A32}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E198A60B-4B25-44AC-A18D-C03F30FF4A32}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E198A60B-4B25-44AC-A18D-C03F30FF4A32}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E198A60B-4B25-44AC-A18D-C03F30FF4A32}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C62D07-6999-4209-AADE-94C8BE385930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C62D07-6999-4209-AADE-94C8BE385930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C62D07-6999-4209-AADE-94C8BE385930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C62D07-6999-4209-AADE-94C8BE385930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
